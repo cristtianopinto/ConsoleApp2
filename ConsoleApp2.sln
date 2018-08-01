@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{36170481-7B37-4530-9E77-8176BE15D7E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF", "ConsoleApp2\IF.csproj", "{36170481-7B37-4530-9E77-8176BE15D7E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWITCH", "SWITCH\SWITCH.csproj", "{EBFBB2BE-948C-40C1-9012-E2670B7C9515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXE1", "EXE1\EXE1.csproj", "{A6F53BB6-C144-4141-B0BE-45AD846315C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOUCLE", "BOUCLE\BOUCLE.csproj", "{A905B7FC-2004-40E5-9A8F-D00EB4759009}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{36170481-7B37-4530-9E77-8176BE15D7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36170481-7B37-4530-9E77-8176BE15D7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36170481-7B37-4530-9E77-8176BE15D7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFBB2BE-948C-40C1-9012-E2670B7C9515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFBB2BE-948C-40C1-9012-E2670B7C9515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFBB2BE-948C-40C1-9012-E2670B7C9515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFBB2BE-948C-40C1-9012-E2670B7C9515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F53BB6-C144-4141-B0BE-45AD846315C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F53BB6-C144-4141-B0BE-45AD846315C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F53BB6-C144-4141-B0BE-45AD846315C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F53BB6-C144-4141-B0BE-45AD846315C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A905B7FC-2004-40E5-9A8F-D00EB4759009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A905B7FC-2004-40E5-9A8F-D00EB4759009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A905B7FC-2004-40E5-9A8F-D00EB4759009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A905B7FC-2004-40E5-9A8F-D00EB4759009}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
